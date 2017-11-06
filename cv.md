@@ -125,3 +125,12 @@ The systems was deployed as two applications, one server which ran as a Windows 
 ASP.NET MVC website which ran in IIS.
 
 *Tech used:* C#, .NET, PostgreSQL, Rebus, RabbitMQ, Dapper, ASP.NET MVC
+
+### Bosbec 2011 - 2015
+
+Built a workflow execution engine, in which workflows to receive and send
+SMS, email and app messages where executed. The systems was built around a
+centralized service bus to allow it to scale horizontally.
+
+*Tech used:* C#, .NET, Rebus, RabbitMQ, MongoDB, CQRS, Event-sourcing, NServiceBus, MSMQ
+
