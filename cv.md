@@ -11,6 +11,21 @@ creating agile development workflows.
 
 ## Recent Projects
 
+### Blueair 2018
+
+Setup a new global infrastructure for Blueairs website, e-commerce system and
+management systems for the air-cleaners.
+
+The setup also includes developing a continuous integration and continuous
+deployment workflow, executed in multiple Jenkins instances with AWS ECR and
+AWS ECS as targets. The setup handles deployments of projects created in
+various technologies, like Drupal, Magento, NodeJS and Laravel, and targets
+multiple environments in multiple regions across the globe.
+
+The focus has been stability, security and scalability and China.
+
+*Tech used:* AWS CloudFormation, AWS ECS, AWS EC2, Troposphere, Ansible, AWS RDS, MySQL, Docker, Jenkins
+
 ### Devrex/Memstate 2017
 
 Assisting in the development of an in-memory database built upon the idea
