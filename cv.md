@@ -5,11 +5,47 @@ experience in web based systems. The past years Kim has focused on
 infrastructure automation, continuous integration and deployment
 pipelines, with Amazon Web Services as the main target.
 
-Kim is new in the consultancy-world, but has solid experience in
+Kim is new in the consultancy world, but has solid experience in
 upscaling applications, migrating from physical hardware to the cloud and
 creating agile development workflows.
 
+Certified Amazon Solutions Architect - Associate level.
+
 ## Recent Projects
+
+### Amazon Authorized Instructor 2018
+
+Studying to become an Amazon Authorized Instructor for the Amazon
+Solutions Architect - Associate course.
+
+Certified Amazon Solutions Architect - Associate and scheduled to become an
+Amazon Authorized Instructor.
+
+What this means for potential customers, is being able to teach developers and
+system administrator the Architecting on AWS course. This will allow them
+to take the Amazon Solutions Architect - Associate certificate.
+
+### Oddny 2018
+
+Setup an infrastructure to host Magento 2 websites for various Swedish
+e-commerce customers.
+
+The setup includes a continuous integration and deployment pipeline done in
+Jenkins, with server configuration done with Ansible.
+
+The target environment is DigitalOcean, but the setup allows for any Linux
+capable environment.
+
+*Tech used:* DigitalOcean, Ansible, Jenkins, Magento 2, MySQL, Varnish, nginx, LetsEncrypt, Redis
+
+### Netigate 2018
+
+Setup an infrastructure on AWS to host a custom Python Flask application.
+
+A continuous integration and deployment workflow was setup using DeployBot and
+AWS ECS.
+
+*Tech used:* AWS CloudFormation, AWS ECS, AWS EC2, Troposphere, Ansible, AWS RDS, MySQL, Docker, DeployBot
 
 ### Blueair 2018
 
